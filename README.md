@@ -1,2 +1,2 @@
-# Qualt
-Qualt - This repository will probably go away once we have a name
+# Curio
+Curio is for Curious Minds
