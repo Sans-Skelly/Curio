@@ -1,7 +1,7 @@
 <?php
-$servername = "localhost";
-$db_user = "";
-$db_password = "";
+$servername = "db4free.net:3307";
+$db_user = "curio";
+$db_password = "curio1";
 $username = "";
 $password = "";
 $email = "";
