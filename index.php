@@ -1,9 +1,3 @@
-<html> 
-<head>  
-<meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="{insert tagline here}">
-    <meta name="author" content="Curio Team">
 <?php
 $servername = "localhost";
 $db_user = "";
@@ -22,6 +16,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   echo "<p>Request via __POST recieved</p>";
 }
 ?>
+<html> 
+<head>  
+<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="{insert tagline here}">
+    <meta name="author" content="Curio Team">
 <!-- gotta import sum libraries -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
