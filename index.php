@@ -7,7 +7,7 @@ $password = "";
 $email = "";
 $conn = new mysqli($servername, $db_user, $db_password);
 if ($conn->connect_error) {
-    die("Connection failed: " . $conn->connect_error);
+    //die("Connection failed: " . $conn->connect_error);
     echo "<title>OFFLINE</title>";
 } 
 echo "<title>Curio</title>";
