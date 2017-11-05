@@ -48,15 +48,14 @@ Use a LEMP (reccomended) or LAMP stack to run your own similar Curio site!
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+We will have a guideline for submitting code.
 
 ## Versioning
 
 Github tags.. eventually
 
 ## Authors
-- Curio Team
-See also the list of [contributors](https://github.com/Sans-Skelly/Curio/contributors) who participated in this project.
+[contributors](https://github.com/Sans-Skelly/Curio/contributors) who contributed in this project.
 
 ## License
 
